@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-div{
+    width: 500px;
+    margin-top: 80px;
+    border: 2px solid #11aecf;
+    height: 350px;
+    margin-left: 300px;
+    padding-top: 20px;
+    border-radius: 3px;
+}
+
+.form1{
+    width: 300px;
+    margin-top: 20px;
+    height: 30px;
+    margin-left: 90px;
+    border-radius: 5px;
+    border: 1px solid #11aecf
+}
+.btndiv{
+    width: 150px;
+    margin-left: 200px;
+    margin-top: 20px
+}
+::placeholder{
+    padding-left: 10px;
+}
